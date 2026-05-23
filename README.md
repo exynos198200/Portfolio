@@ -18,14 +18,24 @@
 * **Стек:** React, PostgreSQL.
 * **Что сделано:** Реализовал авторизацию, настроил REST API, автоматизировал деплой через GitHub Actions.
 * [🔗 Посмотреть код на GitHub](https://github.com/exynos198200/App-Studio)
-* ![76253](https://allwebs.ru/images/2026/05/23/ad2da4e2a56db7cffcffde96da5c24a1.jpg)
-![76254](https://allwebs.ru/images/2026/05/23/348ab32597627f99c53e012309500c93.jpg)
-![76255](https://allwebs.ru/images/2026/05/23/cad4d90d7f55a8abeb92c6aa0b866e79.jpg)
-![76256](https://allwebs.ru/images/2026/05/23/ba4b397b1345f69810609f94ed3c1000.jpg)
-![76257](https://allwebs.ru/images/2026/05/23/35851958b36ea192782327ab6bd8f149.jpg)
-![76258](https://allwebs.ru/images/2026/05/23/c61beab8401a2a7052c02a57cbd24736.jpg)
-![76259](https://allwebs.ru/images/2026/05/23/42e16242510e1dea009402d3ee9a8203.jpg)
-![76260](https://allwebs.ru/images/2026/05/23/05cab3ba512c3f5ac662275d440a9b31.jpg)
+* ### 📸 Галерея: App Studio Cloud
+*Нажмите на изображение для просмотра в полном размере.*
+
+<table align="center">
+  <tr>
+    <td><a href="https://allwebs.ru/images/2026/05/23/ad2da4e2a56db7cffcffde96da5c24a1.jpg"><img src="https://allwebs.ru/images/2026/05/23/ad2da4e2a56db7cffcffde96da5c24a1.jpg" width="200"></a></td>
+    <td><a href="https://allwebs.ru/images/2026/05/23/348ab32597627f99c53e012309500c93.jpg"><img src="https://allwebs.ru/images/2026/05/23/348ab32597627f99c53e012309500c93.jpg" width="200"></a></td>
+    <td><a href="https://allwebs.ru/images/2026/05/23/cad4d90d7f55a8abeb92c6aa0b866e79.jpg"><img src="https://allwebs.ru/images/2026/05/23/cad4d90d7f55a8abeb92c6aa0b866e79.jpg" width="200"></a></td>
+    <td><a href="https://allwebs.ru/images/2026/05/23/ba4b397b1345f69810609f94ed3c1000.jpg"><img src="https://allwebs.ru/images/2026/05/23/ba4b397b1345f69810609f94ed3c1000.jpg" width="200"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://allwebs.ru/images/2026/05/23/35851958b36ea192782327ab6bd8f149.jpg"><img src="https://allwebs.ru/images/2026/05/23/35851958b36ea192782327ab6bd8f149.jpg" width="200"></a></td>
+    <td><a href="https://allwebs.ru/images/2026/05/23/c61beab8401a2a7052c02a57cbd24736.jpg"><img src="https://allwebs.ru/images/2026/05/23/c61beab8401a2a7052c02a57cbd24736.jpg" width="200"></a></td>
+    <td><a href="https://allwebs.ru/images/2026/05/23/42e16242510e1dea009402d3ee9a8203.jpg"><img src="https://allwebs.ru/images/2026/05/23/42e16242510e1dea009402d3ee9a8203.jpg" width="200"></a></td>
+    <td><a href="https://allwebs.ru/images/2026/05/23/05cab3ba512c3f5ac662275d440a9b31.jpg"><img src="https://allwebs.ru/images/2026/05/23/05cab3ba512c3f5ac662275d440a9b31.jpg" width="200"></a></td>
+  </tr>
+</table>
+  
 ---
 
 ### 💡 Мой подход к работе
