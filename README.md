@@ -23,4 +23,4 @@
 - **Automation:** Внедряю CI/CD (GitHub Actions) для ускорения поставки фич.
 - **Enterprise-grade:** Соблюдаю принципы модульности, типизации (TypeScript) и чистого кода.
 
-📫 **Связь:** [Твой Telegram/Email]
+📫 **Связь:** [@yanchile/a843vxj@gmail.com]
