@@ -35,7 +35,12 @@
     <td><a href="https://allwebs.ru/images/2026/05/23/05cab3ba512c3f5ac662275d440a9b31.jpg"><img src="https://allwebs.ru/images/2026/05/23/05cab3ba512c3f5ac662275d440a9b31.jpg" width="200"></a></td>
   </tr>
 </table>
-  
+
+  #### 2. Yandex Music API (Backend)
+*Сервис для работы с API Яндекс.Музыки.*
+* **Стек:** Node.js, TypeScript, Express.
+* **Что сделано:** Реализовал авторизацию, парсинг треков, взаимодействие с API.
+* [🔗 Посмотреть код на GitHub](ссылка)
 ---
 
 ### 💡 Мой подход к работе
@@ -46,5 +51,5 @@
 ---
 
 ### 📫 Как со мной связаться
-* **Telegram:** [@yanchile]
-* **Email:** [a843vxj@gmail.com]
+[Telegram](https://t.me/yanchile)
+[Email](mailto:a843vxj@gmail.com)
