@@ -17,7 +17,14 @@
 *Платформа для разработки приложений на ПК и телефоне.*
 * **Стек:** React, PostgreSQL.
 * **Что сделано:** Реализовал авторизацию, настроил REST API, автоматизировал деплой через GitHub Actions.
-* [🔗 Посмотреть код на GitHub](https://github.com/exynos198200/App-Studio) | [📺 Посмотреть демо](ссылка)
+* [🔗 Посмотреть код на GitHub](https://github.com/exynos198200/App-Studio) | [📺 Посмотреть демо](https://ibb.co/0jtT6Hfb
+https://ibb.co/V0ygRThM
+https://ibb.co/gF7j53Kw
+https://ibb.co/pvTWLLL1
+https://ibb.co/nMWhzCBW
+https://ibb.co/xtzhxJNt
+https://ibb.co/tyFBTFz
+https://ibb.co/rJG3CQQ)
 
 ---
 
