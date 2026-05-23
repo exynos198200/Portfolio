@@ -6,7 +6,7 @@
 
 ### 🛠 Мой основной стек
 * **Frontend:** React, TypeScript, Vite, Tailwind CSS.
-* **Backend:** ASP.NET Core (C#), Python (FastAPI).
+* **Backend:** Владею основами ASP.NET, Python (FastAPI).
 * **Tools & Infrastructure:** Docker, GitHub Actions (CI/CD), PostgreSQL.
 
 ---
